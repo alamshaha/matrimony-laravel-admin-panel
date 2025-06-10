@@ -1,0 +1,10 @@
+[07-Apr-2025 09:31:12 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/codeservetechnol/public_html/backend/vendor/composer/platform_check.php on line 24
+[12-Apr-2025 16:07:27 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[12-Apr-2025 16:14:28 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[12-Apr-2025 19:19:31 UTC] PHP Warning:  POST Content-Length of 9277850 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Apr-2025 16:32:02 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/codeservetechnol/public_html/backend/vendor/composer/platform_check.php on line 24
+[13-Apr-2025 16:32:15 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/codeservetechnol/public_html/backend/vendor/composer/platform_check.php on line 24
+[13-Apr-2025 16:32:47 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/codeservetechnol/public_html/backend/vendor/composer/platform_check.php on line 24
+[13-Apr-2025 16:32:50 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/codeservetechnol/public_html/backend/vendor/composer/platform_check.php on line 24
+[13-Apr-2025 16:33:28 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.30. in /home/codeservetechnol/public_html/backend/vendor/composer/platform_check.php on line 24
+[16-Apr-2025 13:50:19 UTC] PHP Warning:  POST Content-Length of 9451742 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
